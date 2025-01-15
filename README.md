@@ -18,7 +18,7 @@
 <h1 align="center">Features</h1>
 
 
-####战斗(Battle)###
+### 战斗(Battle)
 
 
 战斗加速(Battle Speed)
@@ -26,7 +26,7 @@
 解锁自动战斗(Unlock Auto-Battle)
 
 
-####世界(World)###
+### 世界(World)
 
 
 游戏速度(Global Speed)
@@ -60,7 +60,7 @@
 自动开启宝箱(Auto Treasure) 未开发完
 
 
-####视界(Visuals)###
+### 视界(Visuals)
 
 
 隐藏游戏界面(Hide UI)
@@ -74,7 +74,7 @@ UID修改(UID Changer)
 视场修改(Fov Changer) 未开发完
 
 
-####杂项(Misc)###
+### 杂项(Misc)
 
 
 加载配置(Load Config)
